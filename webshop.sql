@@ -24,8 +24,8 @@ insert into category (id,name) values
 (5, 'Muu');
 
 
-insert into product (name, price, category_id) values ('Pakohuone 1', 10, 1);
-insert into product (name, price, category_id) values ('Pakohuone 2', 20, 1);
+insert into product (name, price, category_id) values ('Pakohuone kauhu', 10, 1);
+insert into product (name, price, category_id) values ('Pakohuone matematiikka', 20, 1);
 
 insert into product (name, price, category_id) values ('Heinänteko', 35, 2);
 insert into product (name, price, category_id) values ('Kissanhoito', 40, 2);
